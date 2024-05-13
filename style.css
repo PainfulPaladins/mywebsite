@@ -1,7 +1,9 @@
+@import url('http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin');
+
 body {
     background-color: black;
     color: white;
-    font-family: Ubuntu, "times new roman", times, roman, serif;
+    font-family: Ubuntu,sans-serif;
 }
 
 a{
